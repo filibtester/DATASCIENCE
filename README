@@ -1,2 +1,10 @@
-Here I want to create a folder in which I share exercises done with Python
-for data science. I use SCIKIT-LEARN.
+I will explain how to read an excel file and a CSV file in the first tutorial.
+In the second tutorial we will look at our database, accessing its columns,
+with an attribute of an object, using the indexing operator and with
+PANDAS operators 'loc' and 'iloc'.
+With 'iloc' we can select single rows and columns of a database,
+with 'loc' we can select more specific data.
+We will study how to manipulate the index, using set_index function,
+conditional selections and PANDAS conditional selectors (isin,notnull,isnull).
+We can also assign a constant value to a new column or assigning a decreasing
+number at every row. 
