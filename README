@@ -8,3 +8,6 @@ We will study how to manipulate the index, using set_index function,
 conditional selections and PANDAS conditional selectors (isin,notnull,isnull).
 We can also assign a constant value to a new column or assigning a decreasing
 number at every row. 
+
+The file "log_normal_distr.py" explain how to generate a set of random numbers
+from a normal distribution, how to plot a Gaussian function, how to generate random numbers with seeds and how to plot a lognormal distribution.
