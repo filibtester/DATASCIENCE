@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # # Generate random numbers from a normal distribution:
@@ -81,4 +80,3 @@ for i in sp.arange(len(sigma0)):
     plt.ylabel('lognormal density distribution')
 
 plt.show()
-
