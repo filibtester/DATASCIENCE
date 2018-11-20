@@ -9,5 +9,10 @@ conditional selections and PANDAS conditional selectors (isin,notnull,isnull).
 We can also assign a constant value to a new column or assigning a decreasing
 number at every row. 
 
-The file "log_normal_distr.py" explain how to generate a set of random numbers
+The file "log_normal_distr.py" explains how to generate a set of random numbers
 from a normal distribution, how to plot a Gaussian function, how to generate random numbers with seeds and how to plot a lognormal distribution.
+
+The file "stock_random_selection.py" shows how to generate random numbers
+from a uniform distribution, how to estimate pi value, how to generate
+random numbers from a Poisson distribution. Using random.uniform() function
+it is possible to select stocks randomly from a list of stocks. 
